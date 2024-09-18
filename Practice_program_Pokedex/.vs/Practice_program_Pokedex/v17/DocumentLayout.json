@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Profiles\\dg7489\\source\\repos\\Try_Things\\Practice_program_Pokedex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17E46263-6090-421C-949C-17B734128C3E}|Practice_program_Pokedex.csproj|d:\\profiles\\dg7489\\source\\repos\\try_things\\practice_program_pokedex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17E46263-6090-421C-949C-17B734128C3E}|Practice_program_Pokedex.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Profiles\\dg7489\\source\\repos\\Try_Things\\Practice_program_Pokedex\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Profiles\\dg7489\\source\\repos\\Try_Things\\Practice_program_Pokedex\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:39:20.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

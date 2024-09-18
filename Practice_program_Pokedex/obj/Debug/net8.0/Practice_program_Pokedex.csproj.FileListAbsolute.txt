@@ -1,0 +1,15 @@
+D:\Profiles\dg7489\source\repos\Try_Things\Practice_program_Pokedex\bin\Debug\net8.0\Practice_program_Pokedex.exe
+D:\Profiles\dg7489\source\repos\Try_Things\Practice_program_Pokedex\bin\Debug\net8.0\Practice_program_Pokedex.deps.json
+D:\Profiles\dg7489\source\repos\Try_Things\Practice_program_Pokedex\bin\Debug\net8.0\Practice_program_Pokedex.runtimeconfig.json
+D:\Profiles\dg7489\source\repos\Try_Things\Practice_program_Pokedex\bin\Debug\net8.0\Practice_program_Pokedex.dll
+D:\Profiles\dg7489\source\repos\Try_Things\Practice_program_Pokedex\bin\Debug\net8.0\Practice_program_Pokedex.pdb
+D:\Profiles\dg7489\source\repos\Try_Things\Practice_program_Pokedex\obj\Debug\net8.0\Practice_program_Pokedex.GeneratedMSBuildEditorConfig.editorconfig
+D:\Profiles\dg7489\source\repos\Try_Things\Practice_program_Pokedex\obj\Debug\net8.0\Practice_program_Pokedex.AssemblyInfoInputs.cache
+D:\Profiles\dg7489\source\repos\Try_Things\Practice_program_Pokedex\obj\Debug\net8.0\Practice_program_Pokedex.AssemblyInfo.cs
+D:\Profiles\dg7489\source\repos\Try_Things\Practice_program_Pokedex\obj\Debug\net8.0\Practice_program_Pokedex.csproj.CoreCompileInputs.cache
+D:\Profiles\dg7489\source\repos\Try_Things\Practice_program_Pokedex\obj\Debug\net8.0\Practice_program_Pokedex.sourcelink.json
+D:\Profiles\dg7489\source\repos\Try_Things\Practice_program_Pokedex\obj\Debug\net8.0\Practice_program_Pokedex.dll
+D:\Profiles\dg7489\source\repos\Try_Things\Practice_program_Pokedex\obj\Debug\net8.0\refint\Practice_program_Pokedex.dll
+D:\Profiles\dg7489\source\repos\Try_Things\Practice_program_Pokedex\obj\Debug\net8.0\Practice_program_Pokedex.pdb
+D:\Profiles\dg7489\source\repos\Try_Things\Practice_program_Pokedex\obj\Debug\net8.0\Practice_program_Pokedex.genruntimeconfig.cache
+D:\Profiles\dg7489\source\repos\Try_Things\Practice_program_Pokedex\obj\Debug\net8.0\ref\Practice_program_Pokedex.dll
